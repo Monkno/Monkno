@@ -4,6 +4,10 @@ I build test systems that make browser, API, and performance behavior inspectabl
 
 My public work focuses on Playwright and TypeScript end-to-end suites, plus Gatling-based performance engineering. I document what passes, why the suite is designed that way, where the application disagrees with the expected behavior, and what the tests deliberately leave untouched.
 
+<a href="https://www.linkedin.com/in/luis-up/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn profile">
+</a>
+
 ## Selected work
 
 ### [automationintesting.online](https://github.com/Monkno/automationintesting.online)
@@ -48,7 +52,21 @@ A focused Playwright suite for SauceDemo's login module.
 - UI checks become more useful when they verify the backend state that the user action was supposed to create.
 - Test documentation should explain exclusions and trade-offs instead of pretending coverage is complete.
 
+## Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monkno&amp;theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monkno&amp;theme=github">
+  <img alt="Monkno's public GitHub contribution activity over the last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monkno&amp;theme=github">
+</picture>
+
 ## Tools in these projects
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nodejs,git,github,githubactions&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,nodejs,git,github,githubactions&amp;theme=light">
+  <img alt="TypeScript, Node.js, Git, GitHub, and GitHub Actions" src="https://skillicons.dev/icons?i=ts,nodejs,git,github,githubactions&amp;theme=light">
+</picture>
 
 TypeScript, Playwright, Gatling, GitHub Actions, REST APIs, Page Objects, fixtures, test-data factories, and CI quality gates.
 
