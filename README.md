@@ -60,15 +60,25 @@ A focused Playwright suite for SauceDemo's login module.
   <img alt="Monkno's public GitHub contribution activity over the last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monkno&amp;theme=github">
 </picture>
 
-## Tools in these projects
+## Tools and platforms
+
+**Automation and code**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nodejs,git,github,githubactions&amp;theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,nodejs,git,github,githubactions&amp;theme=light">
-  <img alt="TypeScript, Node.js, Git, GitHub, and GitHub Actions" src="https://skillicons.dev/icons?i=ts,nodejs,git,github,githubactions&amp;theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Cjava%2Ccypress%2Cselenium&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Cjava%2Ccypress%2Cselenium&amp;theme=light">
+  <img alt="TypeScript, JavaScript, Node.js, Java, Cypress, and Selenium" src="https://skillicons.dev/icons?i=ts,js,nodejs,java,cypress,selenium&amp;theme=light">
 </picture>
 
-TypeScript, Playwright, Gatling, GitHub Actions, REST APIs, Page Objects, fixtures, test-data factories, and CI quality gates.
+**Delivery, cloud, and data**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgithubactions%2Cgitlab%2Cjenkins%2Caws%2Cpostgres%2Cmysql%2Cmongodb%2Cgrafana%2Cpostman&amp;perline=6&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgithubactions%2Cgitlab%2Cjenkins%2Caws%2Cpostgres%2Cmysql%2Cmongodb%2Cgrafana%2Cpostman&amp;perline=6&amp;theme=light">
+  <img alt="Git, GitHub, GitHub Actions, GitLab, Jenkins, AWS, PostgreSQL, MySQL, MongoDB, Grafana, and Postman" src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,jenkins,aws,postgres,mysql,mongodb,grafana,postman&amp;perline=6&amp;theme=light">
+</picture>
+
+Also in my testing work: Playwright, Gatling, REST APIs, Swagger, SoapUI, BrowserStack, New Relic, Testiny, Jira, Confluence, VTEX, Salesforce, Page Objects, fixtures, test-data factories, and CI quality gates.
 
 ## Public profile
 
