@@ -50,14 +50,6 @@ A focused Playwright suite for SauceDemo's login module.
 - UI checks become more useful when they verify the backend state that the user action was supposed to create.
 - Test documentation should explain exclusions and trade-offs instead of pretending coverage is complete.
 
-## Contribution activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:default/Monkno">
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.xqsit94.in/Monkno">
-  <img alt="Monkno's public GitHub contribution calendar for the last year" src="https://ghchart.xqsit94.in/Monkno">
-</picture>
-
 ## Tools and platforms
 
 **Automation and testing**
