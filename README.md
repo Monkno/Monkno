@@ -4,9 +4,7 @@ I build test systems that make browser, API, and performance behavior inspectabl
 
 My public work focuses on Playwright and TypeScript end-to-end suites, plus Gatling-based performance engineering. I document what passes, why the suite is designed that way, where the application disagrees with the expected behavior, and what the tests deliberately leave untouched.
 
-<a href="https://www.linkedin.com/in/luis-up/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn profile">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-up/)
 
 ## Selected work
 
@@ -55,30 +53,42 @@ A focused Playwright suite for SauceDemo's login module.
 ## Contribution activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monkno&amp;theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monkno&amp;theme=github">
-  <img alt="Monkno's public GitHub contribution activity over the last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monkno&amp;theme=github">
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:default/Monkno">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.xqsit94.in/Monkno">
+  <img alt="Monkno's public GitHub contribution calendar for the last year" src="https://ghchart.xqsit94.in/Monkno">
 </picture>
 
 ## Tools and platforms
 
-**Automation and code**
+**Automation and testing**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Cjava%2Ccypress%2Cselenium&amp;theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Cjava%2Ccypress%2Cselenium&amp;theme=light">
-  <img alt="TypeScript, JavaScript, Node.js, Java, Cypress, and Selenium" src="https://skillicons.dev/icons?i=ts,js,nodejs,java,cypress,selenium&amp;theme=light">
-</picture>
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Gatling](https://img.shields.io/badge/Gatling-FF9E2A?style=flat-square&logo=gatling&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-F4B400?style=flat-square&logo=browserstack&logoColor=white)
 
-**Delivery, cloud, and data**
+**Code and delivery**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgithubactions%2Cgitlab%2Cjenkins%2Caws%2Cpostgres%2Cmysql%2Cmongodb%2Cgrafana%2Cpostman&amp;perline=6&amp;theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgithubactions%2Cgitlab%2Cjenkins%2Caws%2Cpostgres%2Cmysql%2Cmongodb%2Cgrafana%2Cpostman&amp;perline=6&amp;theme=light">
-  <img alt="Git, GitHub, GitHub Actions, GitLab, Jenkins, AWS, PostgreSQL, MySQL, MongoDB, Grafana, and Postman" src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,jenkins,aws,postgres,mysql,mongodb,grafana,postman&amp;perline=6&amp;theme=light">
-</picture>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-Also in my testing work: Playwright, Gatling, REST APIs, Swagger, SoapUI, BrowserStack, New Relic, Testiny, Jira, Confluence, VTEX, Salesforce, Page Objects, fixtures, test-data factories, and CI quality gates.
+**Cloud, data, and observability**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=001E2B)
+
+Also in my testing work: REST APIs, Swagger, SoapUI, Testiny, Jira, Confluence, VTEX, Salesforce, Page Objects, fixtures, test-data factories, and CI quality gates.
 
 ## Public profile
 
