@@ -1,8 +1,10 @@
 # Monkno
 
-I build test systems that make browser, API, and performance behavior inspectable.
+QA by instinct, engineer when needed.
 
-My public work focuses on Playwright and TypeScript end-to-end suites, plus Gatling-based performance engineering. I document what passes, why the suite is designed that way, where the application disagrees with the expected behavior, and what the tests deliberately leave untouched.
+I move between testing and code depending on what the problem demands: breaking things, automating them, tracing APIs, pushing performance, or building the tools needed to make quality visible.
+
+Adaptability is the skill. Quality is the mission.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-up/)
 
